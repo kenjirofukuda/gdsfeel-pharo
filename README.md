@@ -7,3 +7,5 @@ jidou teki ni sakuseisareta fairu ni kakitasite imasu.
 
 hisasiburi ni kakimasu
 
+mata sarani
+
