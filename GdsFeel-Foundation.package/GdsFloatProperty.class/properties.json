@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsNumberProperty",
+	"category" : "GdsFeel-Foundation-Property",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsFloatProperty",
+	"type" : "normal"
+}

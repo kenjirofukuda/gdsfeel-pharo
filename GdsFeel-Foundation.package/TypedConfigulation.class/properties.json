@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-Foundation-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"booleanMap",
+		"numberMap",
+		"pointMap",
+		"stringMap"
+	],
+	"name" : "TypedConfigulation",
+	"type" : "normal"
+}

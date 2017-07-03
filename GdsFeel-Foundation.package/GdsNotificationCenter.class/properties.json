@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-Foundation-Notification",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DefaultCenter"
+	],
+	"instvars" : [
+		"wildcard",
+		"nameless",
+		"named",
+		"lock"
+	],
+	"name" : "GdsNotificationCenter",
+	"type" : "normal"
+}

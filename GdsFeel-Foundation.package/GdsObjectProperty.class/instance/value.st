@@ -1,0 +1,3 @@
+evaluting
+value
+	^self getValue.

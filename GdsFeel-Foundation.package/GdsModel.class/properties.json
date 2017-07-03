@@ -1,0 +1,16 @@
+{
+	"classtraitcomposition" : "TGdsPropertyFactory classTrait + TGdsModel classTrait + TGdsPropertiesOwner classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"announcer",
+		"properties"
+	],
+	"name" : "GdsModel",
+	"commentStamp" : "",
+	"super" : "Model",
+	"traitcomposition" : "TGdsPropertyFactory + TGdsModel + TGdsPropertiesOwner",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "GdsFeel-Foundation-Core"
+}

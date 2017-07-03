@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-Foundation-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"virtualCrossPoint",
+		"crossPoint",
+		"cross",
+		"start",
+		"startToCross",
+		"end",
+		"endToCross",
+		"side",
+		"segIndex",
+		"testPoint",
+		"lineSegment"
+	],
+	"name" : "DistanceContext",
+	"type" : "normal"
+}

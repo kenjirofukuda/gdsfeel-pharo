@@ -1,0 +1,4 @@
+accessing
+propertyName
+	^propertyName.
+	

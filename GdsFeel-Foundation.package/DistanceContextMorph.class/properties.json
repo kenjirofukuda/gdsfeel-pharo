@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "BorderedMorph",
+	"category" : "GdsFeel-Foundation-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startPointMorph",
+		"endPointMorph",
+		"testPointMorph"
+	],
+	"name" : "DistanceContextMorph",
+	"type" : "normal"
+}

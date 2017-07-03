@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "GdsFeel-Foundation-Property",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"oldValue",
+		"property",
+		"newValue"
+	],
+	"name" : "GdsPropertyChanged",
+	"type" : "normal"
+}

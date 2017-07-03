@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-Foundation-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Degree45Theta",
+		"MinusBounds",
+		"Pi2"
+	],
+	"instvars" : [ ],
+	"name" : "GeometryUtils",
+	"type" : "normal"
+}
