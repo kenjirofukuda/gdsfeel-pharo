@@ -1,11 +1,5 @@
-test-kamo
+gdsfeel-pharo
 =========
 
-git first commit desu ne.
-
-jidou teki ni sakuseisareta fairu ni kakitasite imasu.
-
-hisasiburi ni kakimasu
-
-mata sarani
+test for Iceberg
 
