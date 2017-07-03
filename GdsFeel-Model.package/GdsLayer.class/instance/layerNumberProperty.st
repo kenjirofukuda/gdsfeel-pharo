@@ -1,0 +1,3 @@
+api-valueHolder
+layerNumberProperty
+	^ layerNumber

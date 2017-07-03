@@ -1,0 +1,31 @@
+{
+	"commentStamp" : "kf 5/4/2009 11:40",
+	"super" : "Model",
+	"category" : "GdsFeel-Model-EditSpace",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"elementType",
+		"colVertices",
+		"digitaizingDirection",
+		"digitaizingMode",
+		"editElement",
+		"itemNumber",
+		"offset",
+		"text",
+		"structureName",
+		"wire",
+		"datatype",
+		"layerNumber",
+		"ashape",
+		"strans",
+		"announcer",
+		"lockMessages",
+		"ownColor",
+		"structure",
+		"items"
+	],
+	"name" : "GdsItemContext",
+	"type" : "normal"
+}

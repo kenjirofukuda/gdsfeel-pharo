@@ -1,0 +1,3 @@
+api-valueHolder
+colorProperty
+	^ color

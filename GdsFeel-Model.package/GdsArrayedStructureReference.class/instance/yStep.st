@@ -1,0 +1,3 @@
+accessing
+yStep
+	^ ashape yStep

@@ -1,0 +1,4 @@
+accessing
+lastModified
+	^lastModified.
+	

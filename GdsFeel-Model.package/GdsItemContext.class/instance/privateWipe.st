@@ -1,0 +1,4 @@
+private
+privateWipe
+	colVertices := nil.
+	

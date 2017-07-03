@@ -1,0 +1,3 @@
+action
+openDefault
+	"self openBetaLibrary"

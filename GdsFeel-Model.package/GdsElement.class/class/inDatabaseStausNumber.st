@@ -1,0 +1,3 @@
+constants
+inDatabaseStausNumber
+	^-2.

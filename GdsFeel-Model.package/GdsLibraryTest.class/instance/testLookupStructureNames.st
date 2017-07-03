@@ -1,0 +1,3 @@
+tests-private
+testLookupStructureNames
+	self sampleLibrary lookupStructureNames traceCr.

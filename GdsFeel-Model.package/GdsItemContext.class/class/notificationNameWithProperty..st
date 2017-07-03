@@ -1,0 +1,3 @@
+notification
+notificationNameWithProperty: aPropertySymbol
+	^GdsProperty autoNotificationNameBy: self propertyName: aPropertySymbol

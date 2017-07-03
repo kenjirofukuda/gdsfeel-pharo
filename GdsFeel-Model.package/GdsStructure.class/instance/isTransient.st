@@ -1,0 +1,3 @@
+testing
+isTransient
+	^ library isTransient

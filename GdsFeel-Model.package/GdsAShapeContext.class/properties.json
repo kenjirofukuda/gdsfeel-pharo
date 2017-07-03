@@ -1,0 +1,21 @@
+{
+	"classtraitcomposition" : "TGdsExchange classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"columnCount",
+		"rowCount",
+		"xStep",
+		"yStep",
+		"propertyOwner",
+		"transforms",
+		"offsets"
+	],
+	"name" : "GdsAShapeContext",
+	"commentStamp" : "kf 11/6/2009 13:48",
+	"super" : "Model",
+	"traitcomposition" : "TGdsExchange",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "GdsFeel-Model-Private"
+}

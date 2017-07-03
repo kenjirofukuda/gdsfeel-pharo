@@ -1,0 +1,9 @@
+SystemOrganization addCategory: #'GdsFeel-Model'!
+SystemOrganization addCategory: 'GdsFeel-Model-Basic'!
+SystemOrganization addCategory: 'GdsFeel-Model-Container'!
+SystemOrganization addCategory: 'GdsFeel-Model-EditSpace'!
+SystemOrganization addCategory: 'GdsFeel-Model-Element'!
+SystemOrganization addCategory: 'GdsFeel-Model-Private'!
+SystemOrganization addCategory: 'GdsFeel-Model-Sandbox'!
+SystemOrganization addCategory: 'GdsFeel-Model-Tests'!
+SystemOrganization addCategory: 'GdsFeel-Model-Viewing'!

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "kf 11/12/2008 12:05",
+	"super" : "Model",
+	"category" : "GdsFeel-Model-Private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"width",
+		"outlineSegMap",
+		"boundaryPoints",
+		"pathtype",
+		"element"
+	],
+	"name" : "GdsWireContext",
+	"type" : "normal"
+}

@@ -1,0 +1,3 @@
+accessing
+dataOutlinePoints
+	^ wire boundaryPoints

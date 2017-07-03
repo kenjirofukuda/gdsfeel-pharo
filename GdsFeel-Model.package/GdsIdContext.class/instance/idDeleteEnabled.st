@@ -1,0 +1,3 @@
+testing
+idDeleteEnabled
+	^self notEmpty.

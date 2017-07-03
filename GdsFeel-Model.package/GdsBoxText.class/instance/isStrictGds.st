@@ -1,0 +1,3 @@
+testing
+isStrictGds
+	^false

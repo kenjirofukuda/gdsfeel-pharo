@@ -1,0 +1,3 @@
+constants
+inIdStausNumber
+	^-1.

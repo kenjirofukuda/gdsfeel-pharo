@@ -1,0 +1,3 @@
+edit chanel
+idSelection
+	^ idContext

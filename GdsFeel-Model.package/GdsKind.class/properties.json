@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsState",
+	"category" : "GdsFeel-Model-Private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"key",
+		"description"
+	],
+	"name" : "GdsKind",
+	"type" : "normal"
+}

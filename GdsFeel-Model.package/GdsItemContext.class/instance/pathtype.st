@@ -1,0 +1,5 @@
+accessing
+pathtype
+	^wire pathtype
+	
+	

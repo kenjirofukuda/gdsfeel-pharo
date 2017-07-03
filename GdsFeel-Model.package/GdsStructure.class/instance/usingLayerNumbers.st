@@ -1,0 +1,3 @@
+private
+usingLayerNumbers
+	^self lookupUsingLayerNumbers

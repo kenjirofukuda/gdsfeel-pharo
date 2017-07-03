@@ -1,0 +1,17 @@
+{
+	"classtraitcomposition" : "TGdsExchange classTrait + TGdsPropertiesOwner classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"selectable",
+		"visible",
+		"properties"
+	],
+	"name" : "GdsState",
+	"commentStamp" : "KenjiroFukuda 11/26/2015 21:54",
+	"super" : "Model",
+	"traitcomposition" : "TGdsExchange + TGdsPropertiesOwner",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "GdsFeel-Model-Private"
+}

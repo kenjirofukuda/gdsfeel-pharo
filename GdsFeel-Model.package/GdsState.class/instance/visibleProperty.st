@@ -1,0 +1,5 @@
+api-valueHolder
+visibleProperty
+	^ visible
+	
+	

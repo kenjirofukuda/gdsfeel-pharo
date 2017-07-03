@@ -1,0 +1,3 @@
+constants
+libInfoFileName
+	^'LIB.ini'

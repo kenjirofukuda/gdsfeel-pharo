@@ -1,0 +1,3 @@
+accessing
+columnCount
+	^ ashape columnCount

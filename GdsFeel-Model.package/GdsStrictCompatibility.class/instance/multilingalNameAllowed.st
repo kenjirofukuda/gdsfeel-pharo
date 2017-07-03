@@ -1,0 +1,3 @@
+testing
+multilingalNameAllowed
+	^ false

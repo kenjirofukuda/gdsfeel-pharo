@@ -1,0 +1,3 @@
+testing
+enterTextEnabled
+	^true

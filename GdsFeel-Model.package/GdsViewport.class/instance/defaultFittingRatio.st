@@ -1,0 +1,3 @@
+defaults
+defaultFittingRatio 
+	^GdsFeel fittingRatio.

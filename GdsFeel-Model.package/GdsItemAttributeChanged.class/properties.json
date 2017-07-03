@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "Announcement",
+	"category" : "GdsFeel-Model-EditSpace",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"item",
+		"attribute",
+		"oldValue",
+		"newValue"
+	],
+	"name" : "GdsItemAttributeChanged",
+	"type" : "normal"
+}

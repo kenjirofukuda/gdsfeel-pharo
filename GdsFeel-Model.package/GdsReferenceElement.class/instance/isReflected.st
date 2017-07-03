@@ -1,0 +1,3 @@
+testing
+isReflected
+	^strans isReflected

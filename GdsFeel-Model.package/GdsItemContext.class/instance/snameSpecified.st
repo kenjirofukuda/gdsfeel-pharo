@@ -1,0 +1,3 @@
+testing
+snameSpecified
+	^ structureName isNotEmpty

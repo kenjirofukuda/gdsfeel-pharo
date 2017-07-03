@@ -1,0 +1,3 @@
+accessing
+xStep
+	^ ashape xStep

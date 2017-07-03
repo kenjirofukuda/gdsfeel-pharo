@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "kf 11/12/2008 11:40",
+	"super" : "GdsModel",
+	"category" : "GdsFeel-Model-Container",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Default"
+	],
+	"instvars" : [
+		"library",
+		"structure",
+		"items",
+		"fileMap",
+		"nameMap",
+		"autoCloseLibrary"
+	],
+	"name" : "GdsStation",
+	"type" : "normal"
+}

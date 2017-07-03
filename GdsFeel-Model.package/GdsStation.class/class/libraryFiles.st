@@ -1,0 +1,3 @@
+accessing
+libraryFiles
+	^ GdsLibrary findFiles.

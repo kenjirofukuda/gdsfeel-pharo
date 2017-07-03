@@ -1,0 +1,1 @@
+A GdsStructure2Test is a test class for testing the behavior of GdsStructure2

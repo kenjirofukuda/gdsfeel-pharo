@@ -1,0 +1,3 @@
+testing
+isGdsOriginalClass
+	^ true

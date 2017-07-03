@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "KenjiroFukuda 11/26/2015 21:49",
+	"super" : "Announcement",
+	"category" : "GdsFeel-Model-Private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsLayersChanged",
+	"type" : "normal"
+}

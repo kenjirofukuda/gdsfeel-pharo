@@ -1,0 +1,4 @@
+edit chanel
+currentItem
+	^ item
+	

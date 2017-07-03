@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsStrictCompatibility",
+	"category" : "GdsFeel-Model-Basic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsBetaCompatibility",
+	"type" : "normal"
+}

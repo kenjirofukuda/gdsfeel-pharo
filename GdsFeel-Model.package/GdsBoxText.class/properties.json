@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "kf 5/4/2009 22:29",
+	"super" : "GdsPrimitiveElement",
+	"category" : "GdsFeel-Model-Element",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contents",
+		"angle"
+	],
+	"name" : "GdsBoxText",
+	"type" : "normal"
+}

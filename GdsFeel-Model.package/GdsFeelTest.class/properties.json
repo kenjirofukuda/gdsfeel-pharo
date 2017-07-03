@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsOldTestCase",
+	"category" : "GdsFeel-Model-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsFeelTest",
+	"type" : "normal"
+}

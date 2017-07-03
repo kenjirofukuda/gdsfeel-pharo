@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "kf 5/11/2009 23:42",
+	"super" : "Model",
+	"category" : "GdsFeel-Model-Private",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"offset",
+		"mag",
+		"angle",
+		"reflected",
+		"absAngle",
+		"absMag",
+		"matrix"
+	],
+	"name" : "GdsStructureTransform",
+	"type" : "normal"
+}

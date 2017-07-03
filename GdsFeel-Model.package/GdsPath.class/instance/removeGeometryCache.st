@@ -1,0 +1,3 @@
+other
+removeGeometryCache
+	wire removeGeometryCache.

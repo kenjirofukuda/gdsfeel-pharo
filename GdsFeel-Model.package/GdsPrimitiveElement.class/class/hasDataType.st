@@ -1,0 +1,3 @@
+testing
+hasDataType
+	^true.

@@ -1,0 +1,4 @@
+private
+isReflected
+	^strans isReflected
+	

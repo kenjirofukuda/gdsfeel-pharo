@@ -1,0 +1,3 @@
+private
+refreshBounds
+	dataBounds := nil.

@@ -1,0 +1,4 @@
+testing
+isVisible
+	^ visible value
+	

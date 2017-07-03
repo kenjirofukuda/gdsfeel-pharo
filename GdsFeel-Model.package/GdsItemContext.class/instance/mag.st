@@ -1,0 +1,4 @@
+accessing
+mag
+	^strans mag.
+	

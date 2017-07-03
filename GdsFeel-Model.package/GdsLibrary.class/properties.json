@@ -1,0 +1,28 @@
+{
+	"classtraitcomposition" : "TGdsExchange classTrait",
+	"classvars" : [
+		"LibraryLocationInsideVM"
+	],
+	"instvars" : [
+		"station",
+		"unitString",
+		"libname",
+		"databaseUnit",
+		"meterUnit",
+		"lastModified",
+		"lastAccessed",
+		"layers",
+		"kinds",
+		"file",
+		"nameToStructureMap",
+		"uuid"
+	],
+	"name" : "GdsLibrary",
+	"commentStamp" : "kf 10/21/2009 15:27",
+	"super" : "GdsModel",
+	"traitcomposition" : "TGdsExchange - {#asJson}",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "GdsFeel-Model-Container"
+}

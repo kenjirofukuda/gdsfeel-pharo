@@ -1,0 +1,4 @@
+accessing
+viewCenter
+	^ viewCenter getValue
+	

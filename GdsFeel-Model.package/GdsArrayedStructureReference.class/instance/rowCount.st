@@ -1,0 +1,3 @@
+accessing
+rowCount
+	^ ashape rowCount

@@ -1,0 +1,3 @@
+attribute
+newExtension
+	^'.', self newExtensionBody

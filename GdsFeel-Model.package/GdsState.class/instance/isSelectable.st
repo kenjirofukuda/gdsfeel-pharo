@@ -1,0 +1,4 @@
+testing
+isSelectable
+	^ selectable value
+	

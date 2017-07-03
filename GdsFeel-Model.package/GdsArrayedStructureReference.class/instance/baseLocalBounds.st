@@ -1,0 +1,3 @@
+private
+baseLocalBounds
+	^super lookupLocalBounds.

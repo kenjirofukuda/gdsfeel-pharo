@@ -1,0 +1,28 @@
+{
+	"classtraitcomposition" : "TGdsExchange classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"dataExtentForElements",
+		"timeModified",
+		"timeCreated",
+		"dirtyReservedArea",
+		"dirtyElements",
+		"maxKeyNumber",
+		"layers",
+		"elements",
+		"library",
+		"idContext",
+		"item",
+		"referencedStructures",
+		"savedName"
+	],
+	"name" : "GdsStructure",
+	"commentStamp" : "kf 11/12/2008 11:57",
+	"super" : "GdsModel",
+	"traitcomposition" : "TGdsExchange",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "GdsFeel-Model-Container"
+}

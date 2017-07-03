@@ -1,0 +1,26 @@
+{
+	"commentStamp" : "kf 11/14/2008 20:08",
+	"super" : "GdsModel",
+	"category" : "GdsFeel-Model-Viewing",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"scale",
+		"grid",
+		"viewCenter",
+		"pixelBoundsSelector",
+		"pixelBoundsTarget",
+		"model",
+		"fittingRatio",
+		"portCenter",
+		"transformStack",
+		"basicTransform",
+		"transform",
+		"extent",
+		"lockUpdate",
+		"updateCount"
+	],
+	"name" : "GdsViewport",
+	"type" : "normal"
+}

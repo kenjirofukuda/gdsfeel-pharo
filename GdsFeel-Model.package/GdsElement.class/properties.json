@@ -1,0 +1,23 @@
+{
+	"classtraitcomposition" : "TGdsExchange classTrait + TGdsPropertiesOwner classTrait",
+	"classvars" : [
+		"TypeToClassMap"
+	],
+	"instvars" : [
+		"properties",
+		"vertices",
+		"dataBounds",
+		"keyNumber",
+		"statusNumber",
+		"structure",
+		"ownColor"
+	],
+	"name" : "GdsElement",
+	"commentStamp" : "kf 11/14/2008 22:13",
+	"super" : "Model",
+	"traitcomposition" : "TGdsExchange + TGdsPropertiesOwner",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "GdsFeel-Model-Element"
+}

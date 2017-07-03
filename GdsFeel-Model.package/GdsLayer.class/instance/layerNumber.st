@@ -1,0 +1,4 @@
+accessing
+layerNumber
+	^ layerNumber value.
+	

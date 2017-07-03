@@ -1,0 +1,3 @@
+testing
+isSameScale
+	^scaleX = scaleY

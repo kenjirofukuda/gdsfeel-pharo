@@ -1,0 +1,3 @@
+acessing
+libNameMax
+	^-1

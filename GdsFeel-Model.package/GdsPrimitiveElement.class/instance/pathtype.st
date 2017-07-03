@@ -1,0 +1,3 @@
+accessing
+pathtype
+	^ 0

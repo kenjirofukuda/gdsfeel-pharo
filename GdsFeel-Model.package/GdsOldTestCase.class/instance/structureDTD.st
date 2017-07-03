@@ -1,0 +1,3 @@
+tests
+structureDTD
+	^GdsStructure dtd.

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsOldTestCase",
+	"category" : "GdsFeel-Model-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lib",
+		"libMap"
+	],
+	"name" : "GdsLibraryTest",
+	"type" : "normal"
+}

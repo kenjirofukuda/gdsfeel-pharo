@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "KenjiroFukuda 4/14/2014 16:04",
+	"super" : "GdsElement",
+	"category" : "GdsFeel-Model-Element",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"strans"
+	],
+	"name" : "GdsReferenceElement",
+	"type" : "normal"
+}

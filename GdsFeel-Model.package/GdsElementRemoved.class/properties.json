@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsElementAnnouncement",
+	"category" : "GdsFeel-Model-Element",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsElementRemoved",
+	"type" : "normal"
+}

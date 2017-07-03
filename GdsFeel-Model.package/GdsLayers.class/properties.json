@@ -1,0 +1,17 @@
+{
+	"classtraitcomposition" : "TGdsExchange classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"layers",
+		"numbers",
+		"announcer"
+	],
+	"name" : "GdsLayers",
+	"commentStamp" : "",
+	"super" : "Model",
+	"traitcomposition" : "TGdsExchange",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "GdsFeel-Model-Private"
+}

@@ -1,0 +1,3 @@
+notification-constants
+structureDidChangeNotification
+	^'GdsStationStructureDidChangeNotification'

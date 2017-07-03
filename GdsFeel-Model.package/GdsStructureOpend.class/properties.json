@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsStructureAnnouncement",
+	"category" : "GdsFeel-Model-Container",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsStructureOpend",
+	"type" : "normal"
+}
