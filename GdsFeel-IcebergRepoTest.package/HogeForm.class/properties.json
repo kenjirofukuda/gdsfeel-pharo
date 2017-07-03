@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "kenjirofukuda 7/3/2017 14:26",
+	"super" : "ComposableModel",
+	"category" : "GdsFeel-IcebergRepoTest",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"graphicView",
+		"menuBar"
+	],
+	"name" : "HogeForm",
+	"type" : "normal"
+}
