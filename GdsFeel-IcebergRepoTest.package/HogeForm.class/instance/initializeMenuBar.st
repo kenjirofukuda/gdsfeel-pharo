@@ -1,5 +1,6 @@
 initialization
 initializeMenuBar
+	menuItemMap := Dictionary new.
 	menuBar := MenuModel new
 		addGroup: [ :group | 
 			group

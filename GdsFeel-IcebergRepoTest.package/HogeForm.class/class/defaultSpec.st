@@ -6,5 +6,5 @@ defaultSpec
 			c
 				add: #menuBar height: self toolbarHeight;
 				add: #graphicView ;
-				add: #statusBar height: 10];
+				add: #statusBar height: self statusbarHeight ];
 		yourself

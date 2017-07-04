@@ -1,4 +1,4 @@
-as yet unclassified
+actions
 installSampleGraphics
 	100
 		timesRepeat: [ | x y |

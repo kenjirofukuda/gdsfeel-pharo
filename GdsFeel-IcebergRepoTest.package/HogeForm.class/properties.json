@@ -13,7 +13,8 @@
 		"statusBarMorph",
 		"hvAnnotationMorph",
 		"whAnnotationMorph",
-		"document"
+		"document",
+		"menuItemMap"
 	],
 	"name" : "HogeForm",
 	"type" : "normal"

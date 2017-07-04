@@ -16,4 +16,9 @@ debugMenu
 				addItem: [ :item | 
 					item
 						name: 'Show Extent bounds';
-						action: [ self inform: 'Show Extent bounds' ] ] ]
+						action: [ self inform: 'Show Extent bounds' ] ].
+			group
+				addItem: [ :item | 
+					item
+						name: 'Install sample graphics';
+						action: [ self document installSampleGraphics ] ] ]

@@ -6,4 +6,4 @@ viewMenu
 				addItem: [ :item | 
 					item
 						name: 'Fit';
-						action: [ self inform: 'Fit' ] ] ]
+						action: [ self graphicView morph fit ] ] ]
