@@ -12,7 +12,8 @@
 		"xyAnnotationMorph",
 		"statusBarMorph",
 		"hvAnnotationMorph",
-		"whAnnotationMorph"
+		"whAnnotationMorph",
+		"document"
 	],
 	"name" : "HogeForm",
 	"type" : "normal"

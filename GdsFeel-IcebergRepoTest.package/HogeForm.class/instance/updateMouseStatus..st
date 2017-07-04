@@ -3,7 +3,6 @@ updateMouseStatus: anEvent
 	| hvPoint xyPoint |
 	hvPoint := anEvent cursorPoint.
 	xyPoint := self graphicView morph viewport transform invertPoint: hvPoint.
-	self logCr: hvPoint -> xyPoint.
 	self xyAnnotationMorph
 		setTextWith:
 			(self

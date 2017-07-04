@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"viewport"
+		"viewport",
+		"document"
 	],
 	"name" : "HgGraphicViewMorph",
 	"type" : "normal"

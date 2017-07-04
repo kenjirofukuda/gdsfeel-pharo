@@ -1,3 +1,8 @@
 drawing
 drawLocalOn: aCanvas
-	aCanvas drawString: self extent asString at: 10 @ 10.
+	self drawAxisOn: aCanvas.
+	self document
+		ifNotNil: [ :doc | 
+			doc graphics
+				do:
+					[ :each | each drawOn: aCanvas viewport: self viewport ] ]
