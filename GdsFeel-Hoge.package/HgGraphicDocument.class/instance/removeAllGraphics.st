@@ -1,0 +1,3 @@
+actions
+removeAllGraphics
+	self graphicsProperty removeAll.

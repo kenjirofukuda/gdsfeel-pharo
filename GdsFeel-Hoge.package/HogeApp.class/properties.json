@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "kenjirofukuda 7/3/2017 14:26",
+	"super" : "ComposableModel",
+	"category" : "GdsFeel-Hoge",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"graphicView",
+		"menuBar",
+		"statusBar",
+		"xyAnnotationMorph",
+		"statusBarMorph",
+		"hvAnnotationMorph",
+		"whAnnotationMorph",
+		"document",
+		"menuItemMap"
+	],
+	"name" : "HogeApp",
+	"type" : "normal"
+}

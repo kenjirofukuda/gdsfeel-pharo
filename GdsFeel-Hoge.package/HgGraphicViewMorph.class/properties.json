@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "BorderedMorph",
+	"category" : "GdsFeel-Hoge",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"viewport",
+		"document"
+	],
+	"name" : "HgGraphicViewMorph",
+	"type" : "normal"
+}
