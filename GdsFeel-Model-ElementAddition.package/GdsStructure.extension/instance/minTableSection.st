@@ -1,0 +1,28 @@
+*GdsFeel-Model-ElementAddition
+minTableSection
+	^ '0
+SECTION
+2
+TABLES
+0
+TABLE
+2
+LTYPE
+70
+1
+0
+LTYPE
+2
+CONTINUOUS
+70
+64
+3
+Solid line
+72
+65
+73
+0
+40
+0.000000
+0
+ENDTAB'

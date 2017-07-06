@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "KFDxf-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dataGroups",
+		"stream",
+		"beginBlock",
+		"endBlock",
+		"containsBegin",
+		"containsEnd"
+	],
+	"name" : "DxfDataGroupSplitter",
+	"type" : "normal"
+}

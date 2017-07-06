@@ -1,0 +1,3 @@
+accessing
+centerZ
+	^ self firstZ

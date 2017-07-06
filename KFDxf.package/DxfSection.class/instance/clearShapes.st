@@ -1,0 +1,3 @@
+action
+clearShapes
+	shapes := nil.

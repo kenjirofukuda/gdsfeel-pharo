@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsPrimitiveElement",
+	"category" : "GdsFeel-Model-ElementAddition",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsAcPoint",
+	"type" : "normal"
+}

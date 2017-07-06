@@ -1,0 +1,3 @@
+accessing
+centerPoint
+	^ self xy

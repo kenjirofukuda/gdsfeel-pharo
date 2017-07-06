@@ -1,0 +1,1 @@
+A DxfShapeTest is a test class for testing the behavior of DxfShape

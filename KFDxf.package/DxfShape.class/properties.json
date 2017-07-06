@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DxfDataGroups",
+	"category" : "KFDxf-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"layerName"
+	],
+	"name" : "DxfShape",
+	"type" : "normal"
+}

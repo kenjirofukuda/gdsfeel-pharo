@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DxfMtext",
+	"category" : "KFDxf-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DxfText",
+	"type" : "normal"
+}

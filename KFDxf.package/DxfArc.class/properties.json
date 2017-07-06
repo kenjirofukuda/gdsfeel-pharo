@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DxfCircle",
+	"category" : "KFDxf-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DxfArc",
+	"type" : "normal"
+}

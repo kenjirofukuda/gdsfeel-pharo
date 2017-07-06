@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsAcCircleDrawer",
+	"category" : "GdsFeel-UI-ElementAddition",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsAcArcDrawer",
+	"type" : "normal"
+}

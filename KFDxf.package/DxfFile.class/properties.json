@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "DxfDataGroups",
+	"category" : "KFDxf-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"file",
+		"lines",
+		"sections"
+	],
+	"name" : "DxfFile",
+	"type" : "normal"
+}

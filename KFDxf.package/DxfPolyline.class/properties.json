@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DxfShape",
+	"category" : "KFDxf-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"vertexArray"
+	],
+	"name" : "DxfPolyline",
+	"type" : "normal"
+}

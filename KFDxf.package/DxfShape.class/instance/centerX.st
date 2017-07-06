@@ -1,0 +1,3 @@
+accessing
+centerX
+	^ self firstX

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "DxfDataGroups",
+	"category" : "KFDxf-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"ColorIndexMap"
+	],
+	"instvars" : [ ],
+	"name" : "DxfLayer",
+	"type" : "normal"
+}

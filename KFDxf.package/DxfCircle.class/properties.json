@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "DxfPoint",
+	"category" : "KFDxf-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "DxfCircle",
+	"type" : "normal"
+}

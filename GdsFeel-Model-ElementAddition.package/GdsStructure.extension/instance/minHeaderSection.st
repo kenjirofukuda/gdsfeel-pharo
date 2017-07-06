@@ -1,0 +1,34 @@
+*GdsFeel-Model-ElementAddition
+minHeaderSection
+	^ '999
+DXF created from GdsFeel
+0
+SECTION
+2
+HEADER
+9
+$ACADVER
+1
+AC1006
+9
+$INSBASE
+10
+0.0
+20
+0.0
+30
+0.0
+9
+$EXTMIN
+10
+0.0
+20
+0.0
+9
+$EXTMAX
+10
+1000.0
+20
+1000.0
+0
+ENDSEC'

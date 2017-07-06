@@ -1,0 +1,3 @@
+accessing
+polylineFlag
+	^ self commonFlag 

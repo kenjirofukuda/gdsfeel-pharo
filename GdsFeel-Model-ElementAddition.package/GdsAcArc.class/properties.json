@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsAcCircle",
+	"category" : "GdsFeel-Model-ElementAddition",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"startAngleDegress",
+		"endAngleDegress"
+	],
+	"name" : "GdsAcArc",
+	"type" : "normal"
+}

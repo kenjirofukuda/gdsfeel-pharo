@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsQuickPointsTool",
+	"category" : "GdsFeel-UI-ElementAddition",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsDirectPointTool",
+	"type" : "normal"
+}

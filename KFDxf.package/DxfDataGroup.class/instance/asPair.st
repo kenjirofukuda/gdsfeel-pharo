@@ -1,0 +1,3 @@
+converting
+asPair
+	^ self asArray

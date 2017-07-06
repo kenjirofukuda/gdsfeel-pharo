@@ -1,0 +1,36 @@
+*GdsFeel-Model-ElementAddition
+minEntitiesSection
+	^ '0
+SECTION
+2
+ENTITIES
+  0
+LINE
+  5
+43
+100
+AcDbEntity
+100
+AcDbLine
+  8
+0
+ 62
+256
+370
+-1
+  6
+ByLayer
+ 10
+120.0
+ 20
+47.25
+ 30
+0.0
+ 11
+34.0
+ 21
+78.25
+ 31
+0.0 
+0
+ENDSEC'

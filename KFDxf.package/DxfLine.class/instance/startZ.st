@@ -1,0 +1,3 @@
+accessing
+startZ
+	^ self firstZ
