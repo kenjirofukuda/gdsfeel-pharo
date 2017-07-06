@@ -8,6 +8,6 @@
 	"instvars" : [
 		"origin"
 	],
-	"name" : "HgGraphicPoint",
+	"name" : "HgPointGraphic",
 	"type" : "normal"
 }

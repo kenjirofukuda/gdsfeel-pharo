@@ -2,7 +2,7 @@ initialization
 initializeWidgets
    document := nil asValueHolder.
 	self initializeMenuBar.
-	self document: (HgGraphicDocument new installSampleGraphics; yourself) .
+	self document: (HgGraphicDocument new loadGraphics; yourself).
 	graphicView := self graphicView.
 	graphicView morph on: #mouseMove send: #updateMouseStatus: to: self.
 	graphicView morph document: self document.
