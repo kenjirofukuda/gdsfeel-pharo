@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "kf 9/29/2009 23:39",
+	"super" : "Object",
+	"category" : "KFImaging-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isAbortBlock",
+		"displayBounds"
+	],
+	"name" : "KFSlideshow",
+	"type" : "normal"
+}

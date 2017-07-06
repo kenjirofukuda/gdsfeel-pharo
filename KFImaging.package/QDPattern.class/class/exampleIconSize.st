@@ -1,0 +1,4 @@
+example
+exampleIconSize
+	^32
+	

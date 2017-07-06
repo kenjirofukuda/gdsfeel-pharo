@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "kf 11/14/2008 20:20",
+	"super" : "MorphicModel",
+	"category" : "KFImaging-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"symbol",
+		"drawOnBlock",
+		"stepBlock",
+		"stepTime",
+		"updateBlock"
+	],
+	"name" : "PluggableLayerMorph",
+	"type" : "normal"
+}

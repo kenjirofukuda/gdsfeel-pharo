@@ -1,0 +1,3 @@
+*KFImaging
+isLandscape
+	^x > y

@@ -1,0 +1,3 @@
+*stringExtension
+trimDoubleQuote	
+	^ self trimOutsideCharacter: $".

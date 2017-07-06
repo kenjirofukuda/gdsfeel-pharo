@@ -1,0 +1,2 @@
+private
+didDisplayImage: aImage

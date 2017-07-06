@@ -1,0 +1,23 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "KFImaging-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"string",
+		"morphicBounds",
+		"borderWidth",
+		"borderColor",
+		"fillColor",
+		"fontDescription",
+		"ttBounds",
+		"transform",
+		"isPixelWidth",
+		"aaLevel",
+		"angle"
+	],
+	"name" : "FTBoxTextContext",
+	"type" : "normal"
+}

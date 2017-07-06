@@ -1,0 +1,3 @@
+*KFImaging
+isPortlit
+	^x < y

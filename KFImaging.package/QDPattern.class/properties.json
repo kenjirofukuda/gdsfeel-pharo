@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "kf 10/21/2008 14:01",
+	"super" : "Object",
+	"category" : "KFImaging-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Form8x8Array",
+		"HcForm8x8Array"
+	],
+	"instvars" : [ ],
+	"name" : "QDPattern",
+	"type" : "normal"
+}

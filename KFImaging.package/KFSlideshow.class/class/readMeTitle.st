@@ -1,0 +1,3 @@
+documentation
+readMeTitle
+	^'README - ', 'KFImaging'.
