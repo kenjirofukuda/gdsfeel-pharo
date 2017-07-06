@@ -1,0 +1,3 @@
+drawing
+redraw
+	self changed

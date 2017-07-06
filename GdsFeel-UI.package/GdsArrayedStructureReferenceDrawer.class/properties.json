@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsStructureReferenceDrawer",
+	"category" : "GdsFeel-UI-Drawer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsArrayedStructureReferenceDrawer",
+	"type" : "normal"
+}

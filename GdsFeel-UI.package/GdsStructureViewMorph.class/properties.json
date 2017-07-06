@@ -1,0 +1,27 @@
+{
+	"classtraitcomposition" : "TGdsStructureDrawable classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"penColor",
+		"offCanvas",
+		"viewport",
+		"colClipBounds",
+		"portStack",
+		"viewRange",
+		"fastDrawing",
+		"lastResizeAtTime",
+		"processFirstDrawing",
+		"handleEventsBySelf",
+		"ttContext",
+		"autoFitOnResize",
+		"state"
+	],
+	"name" : "GdsStructureViewMorph",
+	"commentStamp" : "KenjiroFukuda 4/16/2014 09:55",
+	"super" : "PluggableLayersMorph",
+	"traitcomposition" : "TGdsStructureDrawable",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "GdsFeel-UI-Morph"
+}

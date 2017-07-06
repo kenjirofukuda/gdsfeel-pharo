@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "KenjiroFukuda 7/30/2015 15:45",
+	"super" : "ComposableModel",
+	"category" : "GdsFeel-UI-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tree",
+		"menu",
+		"structureSortBlock",
+		"elementList",
+		"visibleElementList",
+		"inspectorMorph",
+		"tabManager",
+		"layers",
+		"kinds"
+	],
+	"name" : "GdsTreeBrowser",
+	"type" : "normal"
+}

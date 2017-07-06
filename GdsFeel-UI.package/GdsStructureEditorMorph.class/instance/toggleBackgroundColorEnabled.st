@@ -1,0 +1,3 @@
+appearance
+toggleBackgroundColorEnabled
+	^true

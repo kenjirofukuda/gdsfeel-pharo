@@ -1,0 +1,3 @@
+private
+referenceEnabledStructureNames
+	^ self model referenceEnabledStructureNames

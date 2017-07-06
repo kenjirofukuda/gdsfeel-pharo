@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsQuickBoundsTool",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsDirectBoxTextTool",
+	"type" : "normal"
+}

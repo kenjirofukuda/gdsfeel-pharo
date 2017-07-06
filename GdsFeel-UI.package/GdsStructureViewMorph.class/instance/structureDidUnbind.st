@@ -1,0 +1,3 @@
+initialization
+structureDidUnbind
+	self releaseViewports.

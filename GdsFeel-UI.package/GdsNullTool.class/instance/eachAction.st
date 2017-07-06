@@ -1,0 +1,3 @@
+action
+eachAction
+	self subclassResponsibility.

@@ -1,0 +1,3 @@
+private
+cantHandledTypes
+	^#(LIBDIRSIZE SRFNAME LIBSECUR REFLIBS FONTS)

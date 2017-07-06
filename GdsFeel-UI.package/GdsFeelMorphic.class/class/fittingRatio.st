@@ -1,0 +1,4 @@
+accessing
+fittingRatio
+	^GdsFeel fittingRatio.
+	

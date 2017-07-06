@@ -1,0 +1,3 @@
+private
+pixelBounds
+	^self innerBounds

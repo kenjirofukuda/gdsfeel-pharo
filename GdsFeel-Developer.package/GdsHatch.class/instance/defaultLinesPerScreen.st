@@ -1,0 +1,4 @@
+defaults
+defaultLinesPerScreen
+	^127.
+	

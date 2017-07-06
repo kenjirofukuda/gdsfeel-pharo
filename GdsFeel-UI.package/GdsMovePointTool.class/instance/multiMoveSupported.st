@@ -1,0 +1,3 @@
+testing
+multiMoveSupported
+	^false

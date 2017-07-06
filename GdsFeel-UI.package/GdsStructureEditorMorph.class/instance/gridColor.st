@@ -1,0 +1,5 @@
+drawing
+gridColor
+	^self visibleGridColor.
+	
+	

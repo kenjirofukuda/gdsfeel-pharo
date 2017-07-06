@@ -1,0 +1,3 @@
+action
+lookupReplaceVertexIndex
+	^GeometryUtils lookupVertexIndex: analisysResult

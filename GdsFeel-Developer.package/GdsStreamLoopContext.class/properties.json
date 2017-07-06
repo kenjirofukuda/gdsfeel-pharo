@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsLoopContext",
+	"category" : "GdsFeel-Developer-IO",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"element",
+		"structure",
+		"countMap",
+		"typeOrder",
+		"inform"
+	],
+	"name" : "GdsStreamLoopContext",
+	"type" : "normal"
+}

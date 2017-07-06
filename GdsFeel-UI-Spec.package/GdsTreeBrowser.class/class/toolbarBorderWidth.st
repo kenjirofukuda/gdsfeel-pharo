@@ -1,0 +1,3 @@
+constants
+toolbarBorderWidth
+	^ 4

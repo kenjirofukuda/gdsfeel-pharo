@@ -1,0 +1,3 @@
+drawing
+removeFeedbackCanvas
+	feedbackCanvas := nil.

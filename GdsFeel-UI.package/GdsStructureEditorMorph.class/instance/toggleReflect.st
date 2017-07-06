@@ -1,0 +1,3 @@
+command-handler
+toggleReflect
+	self structure currentItem toggleReflect

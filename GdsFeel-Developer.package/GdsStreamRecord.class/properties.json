@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "kf 10/23/2009 05:42",
+	"super" : "Object",
+	"category" : "GdsFeel-Developer-IO",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"bytes",
+		"type",
+		"dataBytes"
+	],
+	"name" : "GdsStreamRecord",
+	"type" : "normal"
+}

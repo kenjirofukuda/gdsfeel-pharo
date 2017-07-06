@@ -1,0 +1,3 @@
+localize
+localizeMap
+	^LocalizeMap

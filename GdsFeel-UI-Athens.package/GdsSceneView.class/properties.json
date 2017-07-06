@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "KenjiroFukuda 4/10/2014 21:14",
+	"super" : "AthensInteractiveScene",
+	"category" : "GdsFeel-UI-Athens",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"viewport",
+		"lockTransformUpdate"
+	],
+	"name" : "GdsSceneView",
+	"type" : "normal"
+}

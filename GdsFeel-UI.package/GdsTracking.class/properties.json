@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-UI-Morph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"event",
+		"currentEvent",
+		"points"
+	],
+	"name" : "GdsTracking",
+	"type" : "normal"
+}

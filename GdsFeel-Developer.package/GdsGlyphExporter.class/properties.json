@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "kf 5/9/2009 18:51",
+	"super" : "Object",
+	"category" : "GdsFeel-Developer-Utility",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"station"
+	],
+	"name" : "GdsGlyphExporter",
+	"type" : "normal"
+}

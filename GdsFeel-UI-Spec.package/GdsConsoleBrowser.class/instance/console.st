@@ -1,0 +1,3 @@
+initialization
+console
+	^ consoleMorph asSpecAdapter.

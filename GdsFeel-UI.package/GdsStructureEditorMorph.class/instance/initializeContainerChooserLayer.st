@@ -1,0 +1,4 @@
+initialization
+initializeContainerChooserLayer
+	self initializeLibraryChooserLayer.
+	self initializeStructureChooserLayer. 

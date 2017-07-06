@@ -1,0 +1,3 @@
+accessing
+structure
+	^ scene structure

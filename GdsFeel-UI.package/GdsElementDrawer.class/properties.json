@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "kf 11/14/2008 20:10",
+	"super" : "Object",
+	"category" : "GdsFeel-UI-Drawer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"element",
+		"morph"
+	],
+	"name" : "GdsElementDrawer",
+	"type" : "normal"
+}

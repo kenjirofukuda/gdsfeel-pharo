@@ -1,0 +1,3 @@
+initialization
+initializePresenter
+	self initializePresenterForState: self stateProperty.

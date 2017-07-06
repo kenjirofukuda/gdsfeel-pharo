@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsAbstractIdTool",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsIdOffsetTool",
+	"type" : "normal"
+}

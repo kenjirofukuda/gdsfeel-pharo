@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MorphicModel",
+	"category" : "GdsFeel-UI-Morph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"labelMorph"
+	],
+	"name" : "GdsStateMorph",
+	"type" : "normal"
+}

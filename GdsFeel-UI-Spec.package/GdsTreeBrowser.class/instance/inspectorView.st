@@ -1,0 +1,3 @@
+accessing
+inspectorView
+	^ inspectorMorph asSpecAdapter

@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "GdsFeel-UI-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"listModel",
+		"viewMap",
+		"model"
+	],
+	"name" : "GdsStatesSpecView",
+	"type" : "normal"
+}

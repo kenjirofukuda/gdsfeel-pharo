@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsNullTool",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"lastRubberBandPoint"
+	],
+	"name" : "GdsVertexInputTool",
+	"type" : "normal"
+}

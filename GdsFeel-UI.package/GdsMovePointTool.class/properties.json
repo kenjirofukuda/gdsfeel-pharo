@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "kf 11/14/2008 20:13",
+	"super" : "GdsNullTool",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"analisysResult",
+		"replaceVertexIndex",
+		"moveToPoint"
+	],
+	"name" : "GdsMovePointTool",
+	"type" : "normal"
+}

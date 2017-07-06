@@ -1,0 +1,4 @@
+accessing
+countBytes
+	^bytes size
+	

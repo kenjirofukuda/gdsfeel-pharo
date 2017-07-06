@@ -1,0 +1,3 @@
+accessing
+structure
+	^self model.

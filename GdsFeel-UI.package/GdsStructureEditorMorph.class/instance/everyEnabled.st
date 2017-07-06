@@ -1,0 +1,3 @@
+testing-enabled
+everyEnabled
+	^ true

@@ -1,0 +1,3 @@
+action
+afterSecondAction
+	self subclassResponsibility.

@@ -1,0 +1,3 @@
+private
+removeOffCanvas
+	offCanvas := nil.

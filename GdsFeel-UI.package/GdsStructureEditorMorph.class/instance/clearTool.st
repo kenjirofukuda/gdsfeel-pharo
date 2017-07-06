@@ -1,0 +1,3 @@
+tools
+clearTool
+	tool := nil.

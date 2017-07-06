@@ -1,0 +1,3 @@
+drawing
+drawContentsOn: aCanvas	
+	"Dummy"	

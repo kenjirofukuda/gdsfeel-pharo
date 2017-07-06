@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsNewTool",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsSelectTool",
+	"type" : "normal"
+}

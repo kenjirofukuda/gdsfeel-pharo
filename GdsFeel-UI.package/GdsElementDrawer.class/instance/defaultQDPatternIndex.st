@@ -1,0 +1,3 @@
+defaults
+defaultQDPatternIndex
+	^26.

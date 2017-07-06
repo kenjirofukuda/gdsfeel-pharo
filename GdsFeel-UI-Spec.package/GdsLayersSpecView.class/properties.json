@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsStatesSpecView",
+	"category" : "GdsFeel-UI-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsLayersSpecView",
+	"type" : "normal"
+}

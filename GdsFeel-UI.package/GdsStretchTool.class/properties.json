@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "kf 11/14/2008 20:16",
+	"super" : "GdsNullTool",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"analisysResult",
+		"moveToSeg",
+		"offsetSeg",
+		"crossPointToPreSeg",
+		"crossPointToPostSeg",
+		"nonEditUpdateBounds",
+		"lastUpdateBounds"
+	],
+	"name" : "GdsStretchTool",
+	"type" : "normal"
+}

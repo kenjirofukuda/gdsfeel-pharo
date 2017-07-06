@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "KenjiroFukuda 4/16/2014 09:54",
+	"super" : "Object",
+	"category" : "GdsFeel-UI-Morph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"LocalizeMap",
+		"TypedMap"
+	],
+	"instvars" : [ ],
+	"name" : "GdsFeelMorphic",
+	"type" : "normal"
+}

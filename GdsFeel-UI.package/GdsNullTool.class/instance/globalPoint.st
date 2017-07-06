@@ -1,0 +1,3 @@
+accessing
+globalPoint
+	^event cursorPoint.

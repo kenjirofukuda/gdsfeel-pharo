@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsStateSpecView",
+	"category" : "GdsFeel-UI-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"colorChooserMorph",
+		"layerNumberModel"
+	],
+	"name" : "GdsLayerSpecView",
+	"type" : "normal"
+}

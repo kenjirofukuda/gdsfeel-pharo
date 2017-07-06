@@ -1,0 +1,3 @@
+action
+stopCE
+	self subclassResponsibility

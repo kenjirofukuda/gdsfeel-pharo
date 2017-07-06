@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-Developer-IO",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"break",
+		"result"
+	],
+	"name" : "GdsLoopContext",
+	"type" : "normal"
+}

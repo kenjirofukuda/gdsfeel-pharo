@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsAbstractIdTool",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"downTimeStamp",
+		"upTimeStamp",
+		"moveCount",
+		"shiftCount",
+		"worldPoints",
+		"findRect",
+		"prevOverPoint",
+		"oldFindRect",
+		"upDragging"
+	],
+	"name" : "GdsNewTool",
+	"type" : "normal"
+}

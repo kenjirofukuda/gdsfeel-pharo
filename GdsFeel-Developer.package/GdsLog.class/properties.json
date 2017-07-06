@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-Developer-Debug",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"logStream",
+		"category"
+	],
+	"name" : "GdsLog",
+	"type" : "normal"
+}

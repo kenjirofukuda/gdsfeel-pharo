@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BorderedMorph",
+	"category" : "GdsFeel-Developer-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hatch"
+	],
+	"name" : "GdsHatchTestMorph",
+	"type" : "normal"
+}

@@ -1,0 +1,4 @@
+documentation
+readMeContents
+	^self readMeMaster.
+ 

@@ -1,0 +1,3 @@
+private
+removeCachedCanvas
+	self removeOffCanvas.

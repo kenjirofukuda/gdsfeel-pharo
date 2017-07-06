@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsMovePointTool",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsDeleteVertexTool",
+	"type" : "normal"
+}

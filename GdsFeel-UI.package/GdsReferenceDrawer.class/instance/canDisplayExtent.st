@@ -1,0 +1,3 @@
+testing
+canDisplayExtent
+	^self subclassResponsibility

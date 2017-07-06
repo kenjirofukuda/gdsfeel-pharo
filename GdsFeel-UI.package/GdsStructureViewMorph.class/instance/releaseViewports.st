@@ -1,0 +1,3 @@
+initialization
+releaseViewports
+	viewport := nil.

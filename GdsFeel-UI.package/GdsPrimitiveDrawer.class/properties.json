@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GdsElementDrawer",
+	"category" : "GdsFeel-UI-Drawer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "GdsPrimitiveDrawer",
+	"type" : "normal"
+}

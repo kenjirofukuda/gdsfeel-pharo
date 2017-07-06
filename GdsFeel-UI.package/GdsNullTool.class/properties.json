@@ -1,0 +1,22 @@
+{
+	"commentStamp" : "kf 11/14/2008 20:12",
+	"super" : "Object",
+	"category" : "GdsFeel-UI-Tools",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"morph",
+		"event",
+		"userInfo",
+		"clickCount",
+		"lastPoint",
+		"referencePoint",
+		"lastDeltaPoint",
+		"deltaPoint",
+		"stopCE",
+		"oldRubberBandBounds"
+	],
+	"name" : "GdsNullTool",
+	"type" : "normal"
+}

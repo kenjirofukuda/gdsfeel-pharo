@@ -1,0 +1,3 @@
+accessing
+relativeOffset
+	^deltaPoint - lastDeltaPoint

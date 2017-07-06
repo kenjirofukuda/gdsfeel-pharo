@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "kf 11/19/2009 10:54",
+	"super" : "GdsStructureViewMorph",
+	"category" : "GdsFeel-UI-Morph",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"tool",
+		"feedbackCanvas",
+		"markerPoints",
+		"showsElementKey",
+		"lastSessionsGrid",
+		"lastPoint",
+		"previewMap",
+		"viewingCursorForm"
+	],
+	"name" : "GdsStructureEditorMorph",
+	"type" : "normal"
+}

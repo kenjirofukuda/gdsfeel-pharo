@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-Developer-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"hName",
+		"angle",
+		"linesPerScreen"
+	],
+	"name" : "GdsHatch",
+	"type" : "normal"
+}

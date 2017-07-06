@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "KenjiroFukuda 1/2/2015 15:50",
+	"super" : "ComposableModel",
+	"category" : "GdsFeel-UI-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"structureViewMorph",
+		"consoleMorph"
+	],
+	"name" : "GdsConsoleBrowser",
+	"type" : "normal"
+}
