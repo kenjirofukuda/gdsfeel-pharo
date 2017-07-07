@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 useNewCanvas
-	^ true
+	^ useNewCanvas := useNewCanvas ifNil: [ self lookupNewCanvasEnabled  ]
