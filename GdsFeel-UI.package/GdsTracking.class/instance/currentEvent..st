@@ -1,5 +1,4 @@
 accessing
 currentEvent: aMouseMoveEvent 
-	currentEvent := aMouseMoveEvent.
-	points add: currentEvent cursorPoint copy.
+	super currentEvent: aMouseMoveEvent.
 	self structureMorph fireFirstdrawing .

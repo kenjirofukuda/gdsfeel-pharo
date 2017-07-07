@@ -1,11 +1,15 @@
 {
 	"commentStamp" : "",
-	"super" : "KFViewTracking",
+	"super" : "Object",
 	"category" : "GdsFeel-UI-Morph",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "GdsTracking",
+	"instvars" : [
+		"event",
+		"currentEvent",
+		"points"
+	],
+	"name" : "KFViewTracking",
 	"type" : "normal"
 }

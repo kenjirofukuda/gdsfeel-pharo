@@ -1,6 +1,14 @@
-drawing
+drawing sparta
 drawAxisSpartaCanvasOn: aSpartaCanvas
-	| hvPoint |
+	| hvPoint path |
 	hvPoint := self viewport xy2hv: 0 @ 0.
-"	aCanvas line: (hvPoint x @ 0) to: (hvPoint x @ self extent y) color: Color black.
-	aCanvas line: (0 @ hvPoint y) to: (self extent x @ hvPoint y) color: Color black.	"
+	path := aSpartaCanvas path
+		moveTo: (hvPoint x @ 0);
+		lineTo: (hvPoint x @ self extent y);
+		moveTo: (0 @ hvPoint y);
+		lineTo: (self extent x @ hvPoint y);
+		finish. 
+	aSpartaCanvas stroke 
+		paint: Color black;
+		path: path;
+		draw.

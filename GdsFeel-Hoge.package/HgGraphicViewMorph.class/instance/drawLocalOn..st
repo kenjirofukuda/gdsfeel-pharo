@@ -1,5 +1,8 @@
 drawing
 drawLocalOn: aCanvas
-	self useNewCanvas
-		ifFalse: [ self drawClasicCanvasOn: aCanvas ]
-		ifTrue: [ self drawNewCanvasOn: aCanvas ]
+	offCanvas
+		ifNil: [ 
+			self useNewCanvas
+				ifFalse: [ self drawClasicCanvasOn: self ensureOffCanvas ]
+				ifTrue: [ self drawNewCanvasOn: self ensureOffCanvas ] ].
+	aCanvas drawImage: self ensureOffCanvas form at: 0 @ 0

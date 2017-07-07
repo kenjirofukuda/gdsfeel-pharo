@@ -8,5 +8,6 @@ createViewport
 	vp announcer
 		when: #viewTransformChanged
 		do: [ 
+			self clearOffCanvas.
 			self changed ].
 	^ vp
