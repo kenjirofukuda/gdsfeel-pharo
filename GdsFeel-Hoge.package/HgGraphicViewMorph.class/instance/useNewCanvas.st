@@ -1,3 +1,3 @@
 testing
 useNewCanvas
-	^ useNewCanvas := useNewCanvas ifNil: [ self lookupNewCanvasEnabled  ]
+	^ useNewCanvas value

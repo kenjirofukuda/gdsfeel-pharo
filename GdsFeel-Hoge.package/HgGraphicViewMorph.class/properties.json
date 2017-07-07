@@ -9,7 +9,8 @@
 		"viewport",
 		"document",
 		"useNewCanvas",
-		"offCanvas"
+		"offCanvas",
+		"newCanvasEnabled"
 	],
 	"name" : "HgGraphicViewMorph",
 	"type" : "normal"

@@ -1,8 +1,5 @@
 drawing
 ensureOffCanvas
-	^ offCanvas
-		ifNil: [ 
-			offCanvas := FormCanvas extent: self extent.
-			offCanvas
-				fillColor: self color;
-				yourself ]
+	^ offCanvas ifNil: [ 
+		offCanvas := FormCanvas extent: self extent.
+		offCanvas fillColor: Color white; yourself ]

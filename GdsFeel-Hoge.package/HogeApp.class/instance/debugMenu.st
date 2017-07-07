@@ -2,6 +2,13 @@ accessing menu
 debugMenu
 	^ MenuModel new
 		addGroup: [ :group | 
+			self graphicView morph newCanvasEnabled
+				ifTrue: [ 
+					group
+						addItem: [ :item | 
+							item
+								name: 'Toggle Canvas';
+								action: [ graphicView morph useNewCanvas: graphicView morph useNewCanvas not ] ] ].
 			group
 				addItem: [ :item | 
 					item

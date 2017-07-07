@@ -6,4 +6,4 @@ viewMove
 	lp2 := points last.
 	p2 := self viewport worldPointFromGlobal: lp2.
 	p1 := self viewport worldPointFromGlobal: lp1.
-	self viewMoveDeviceFrom: lp2 to: lp1.
+	self viewMoveFrom: p1 to: p2.
