@@ -10,6 +10,7 @@ customMouseWheel: event
 	(KFEventSupport isWheelDownEvent: event)
 		ifTrue: [ dir := -1.0 ].
 	self viewport
-		lockUpdateDuring: [ self viewport portCenter: localPoint.
+		lockUpdateDuring: [ 
+			self viewport portCenter: localPoint.
 			self viewport viewCenter: center.
 			self viewport zoom: 1.0 + (0.125 * dir) ]

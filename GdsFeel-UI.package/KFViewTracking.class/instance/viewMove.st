@@ -4,6 +4,6 @@ viewMove
 	points size < 2 ifTrue: [ ^ self ].
 	lp1 := points at: (points size - 1).
 	lp2 := points last.
-	p2 := self viewport worldPointFromGlobal: lp2.
 	p1 := self viewport worldPointFromGlobal: lp1.
-	self viewMoveDeviceFrom: lp2 to: lp1.
+	p2 := self viewport worldPointFromGlobal: lp2.
+	self viewMoveDeviceFrom: lp1 to: lp2.
