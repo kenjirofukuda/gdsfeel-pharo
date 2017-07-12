@@ -4,16 +4,10 @@ editMenu
 		addGroup: [ :group | 
 			group
 				addItem: [ :item | 
-					menuItemMap at: #clearAll put: item.
-					item
-						name: 'Clear All';
-						action: [ self document removeAllGraphics ] ].
-			group
-				addItem: [ :item | 
 					menuItemMap at: #clear put: item.
 					item
 						name: 'Clear';
-						action: [ self inform: item name ] ].
+						action: [ self document removeGraphics: self document selectedGraphics ] ].
 			group
 				addItem: [ :item | 
 					menuItemMap at: #selectAll put: item.
