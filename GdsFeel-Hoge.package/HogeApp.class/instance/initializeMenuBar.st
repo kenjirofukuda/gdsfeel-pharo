@@ -11,6 +11,11 @@ initializeMenuBar
 			group
 				addItem: [ :item | 
 					item
+						name: 'Tools';
+						subMenu: self toolsMenu ].
+			group
+				addItem: [ :item | 
+					item
 						name: 'View';
 						subMenu: self viewMenu ].
 			group

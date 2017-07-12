@@ -10,7 +10,8 @@
 		"document",
 		"useNewCanvas",
 		"offCanvas",
-		"newCanvasEnabled"
+		"newCanvasEnabled",
+		"toolClass"
 	],
 	"name" : "HgGraphicViewMorph",
 	"type" : "normal"
