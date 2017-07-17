@@ -14,7 +14,8 @@
 		"hvAnnotationMorph",
 		"whAnnotationMorph",
 		"document",
-		"menuItemMap"
+		"menuItemMap",
+		"editingState"
 	],
 	"name" : "HogeApp",
 	"type" : "normal"
