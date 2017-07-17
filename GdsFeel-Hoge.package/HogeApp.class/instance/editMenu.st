@@ -31,6 +31,7 @@ editMenu
 					menuItemMap at: #selectAll put: item.
 					item
 						name: 'Select All';
+						shortcut: $a command ;
 						action: [ 
 							self document selectGraphics: self document graphics.
 							self graphicView morph clearOffCanvas; changed. "TODO: fire event" ] ].
