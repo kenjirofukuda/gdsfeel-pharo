@@ -23,6 +23,7 @@ editMenu
 					menuItemMap at: #clear put: item.
 					item
 						name: 'Clear';
+						shortcut:Character backspace command;
 						action: [ 
 							self addDeleteSelectionUndoRecord.
 							self document removeGraphics: self document selectedGraphics ] ].
