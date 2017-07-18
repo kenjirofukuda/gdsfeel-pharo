@@ -4,7 +4,9 @@
 	"category" : "GdsFeel-Hoge",
 	"classinstvars" : [ ],
 	"pools" : [ ],
-	"classvars" : [ ],
+	"classvars" : [
+		"PngSaveDirectory"
+	],
 	"instvars" : [
 		"graphicView",
 		"menuBar",

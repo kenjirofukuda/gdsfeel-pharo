@@ -1,10 +1,9 @@
-as yet unclassified
-settingsOn: aBuilder 
+settings
+settingsOn: aBuilder
 	<systemsettings>
 	(aBuilder group: #GdsFeel)
-		with: [
+		with: [ 
 			(aBuilder setting: #dependentEnabled)
-				target: self; 
+				target: self;
 				label: 'Dpendent enabled';
-		 		description: 'Use Clasical dependent mechanizm.'.
-				]
+				description: 'Use Clasical dependent mechanizm.' ]
