@@ -1,7 +1,9 @@
 event handler
 noDragAction
-	self document
-		addGraphic:
-			(HgPointGraphic new
-				origin: self lastWorldPoint;
-				yourself)
+	| newGraphic |
+	newGraphic := HgPointGraphic new
+		origin: self lastWorldPoint;
+		yourself.
+	self document addCreateGraphicUndoRecord: newGraphic.	
+	self document addGraphic: newGraphic.
+	

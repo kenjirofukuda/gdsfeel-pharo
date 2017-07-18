@@ -25,7 +25,7 @@ editMenu
 						name: 'Clear';
 						shortcut:Character backspace command;
 						action: [ 
-							self addDeleteSelectionUndoRecord.
+							self document addDeleteSelectionUndoRecord.
 							self document removeGraphics: self document selectedGraphics ] ].
 			group
 				addItem: [ :item | 
