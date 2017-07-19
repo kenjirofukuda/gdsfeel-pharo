@@ -2,9 +2,16 @@ drawing
 drawSpartaCanvasOn: aSpartaCanvas viewport: aViewport
 	| hvPoint circle |
 	hvPoint := aViewport xy2hv: self origin.
-	circle := aSpartaCanvas shape circleAt: hvPoint radius: 2.
+	self selected
+		ifTrue: [ 
+			| halfHandle |
+			halfHandle := self halfHandleSize asPoint.
+			aSpartaCanvas fill
+				paint: self handleColor;
+				path: (self rectangleCenter: hvPoint handleHalfSize: halfHandle);
+				draw ].
+	circle := aSpartaCanvas shape circleAt: hvPoint radius: self pointDisplayHalfSize.
 	aSpartaCanvas stroke
-		paint: Color black;
-		path: circle; 
-		draw.
-	
+		paint: self strokeColor;
+		path: circle;
+		draw

@@ -1,0 +1,3 @@
+redo-undo
+redoCreateGraphics: aHgGraphicCollection
+	self addGraphics: aHgGraphicCollection

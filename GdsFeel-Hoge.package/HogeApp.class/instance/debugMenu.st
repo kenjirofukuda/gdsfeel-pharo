@@ -21,7 +21,9 @@ debugMenu
 				addItem: [ :item | 
 					item
 						name: 'Install sample graphics';
-						action: [ self document installSampleGraphics ] ] .
+						action: [ | worldBounds |
+							worldBounds := self graphicView morph viewport worldViewBounds.
+							self document installSampleGraphicsBounds: worldBounds ] ] .
 			self graphicView morph newCanvasEnabled
 				ifTrue: [ 
 					group

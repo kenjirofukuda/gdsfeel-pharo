@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "GdsFeel-Hoge",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Instance"
+	],
+	"instvars" : [
+		"pngSaveDirectory",
+		"handleSize",
+		"pointDisplaySize"
+	],
+	"name" : "HogeAppSettings",
+	"type" : "normal"
+}

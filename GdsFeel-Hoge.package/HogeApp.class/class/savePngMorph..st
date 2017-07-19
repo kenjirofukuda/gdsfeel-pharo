@@ -1,7 +1,7 @@
-as yet unclassified
+menu items
 savePngMorph: aMorph
 	PNGReadWriter
 		putForm: aMorph imageForm
 		onFileNamed:
-			(HogeApp pngSaveDirectory asFileReference / (aMorph asString , '.png'))
+			(HogeAppSettings instance pngSaveDirectory asFileReference / (aMorph asString , '.png'))
 				nextVersion

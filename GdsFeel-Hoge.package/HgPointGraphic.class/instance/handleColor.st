@@ -1,0 +1,3 @@
+drawing
+handleColor
+	^ Color blue

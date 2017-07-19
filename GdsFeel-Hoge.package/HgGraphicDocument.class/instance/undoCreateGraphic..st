@@ -1,3 +1,3 @@
 redo-undo
-undoCreateGraphic: aHgPointGraphic 
-	self removeGraphics: (Array with: aHgPointGraphic)
+undoCreateGraphic: aHgGraphic 
+	self undoCreateGraphics: (Array with: aHgGraphic)

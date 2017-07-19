@@ -6,6 +6,11 @@ initializeMenuBar
 			group
 				addItem: [ :item | 
 					item
+						name: 'File';
+						subMenu: self fileMenu ].
+			group
+				addItem: [ :item | 
+					item
 						name: 'Edit';
 						subMenu: self editMenu ].
 			group
@@ -23,4 +28,4 @@ initializeMenuBar
 					item
 						name: 'Debug';
 						subMenu: self debugMenu ] ].
-	menuBar applyTo: self.
+	menuBar applyTo: self

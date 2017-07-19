@@ -1,0 +1,3 @@
+drawing
+strokeColor
+	^ Color black
