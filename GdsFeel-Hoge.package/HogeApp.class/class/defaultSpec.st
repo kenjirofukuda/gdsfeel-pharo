@@ -5,6 +5,6 @@ defaultSpec
 		newColumn: [ :c | 
 			c
 				add: #menuBar height: self toolbarHeight;
-				add: #graphicView ;
+				add: #graphicView;
 				add: #statusBar height: self statusbarHeight ];
 		yourself

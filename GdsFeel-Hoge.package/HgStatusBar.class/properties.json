@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "ComposableModel",
+	"category" : "GdsFeel-Hoge",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"mouseXY",
+		"mouseHV",
+		"sizeWH"
+	],
+	"name" : "HgStatusBar",
+	"type" : "normal"
+}

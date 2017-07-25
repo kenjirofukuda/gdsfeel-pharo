@@ -1,6 +1,8 @@
 initialization
 initialize
 	super initialize.
+	showAxisLines := true.
+	showExtentBounds := true.
 	document := nil asValueHolder.
 	useNewCanvas  := self lookupNewCanvasEnabled asValueHolder.
 	self on: #mouseDown send: #customMouseDown: to: self. 

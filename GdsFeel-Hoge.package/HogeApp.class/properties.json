@@ -11,10 +11,6 @@
 		"graphicView",
 		"menuBar",
 		"statusBar",
-		"xyAnnotationMorph",
-		"statusBarMorph",
-		"hvAnnotationMorph",
-		"whAnnotationMorph",
 		"document",
 		"menuItemMap",
 		"editingState"

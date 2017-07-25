@@ -11,7 +11,9 @@
 		"useNewCanvas",
 		"offCanvas",
 		"newCanvasEnabled",
-		"toolClass"
+		"toolClass",
+		"showAxisLines",
+		"showExtentBounds"
 	],
 	"name" : "HgGraphicViewMorph",
 	"type" : "normal"

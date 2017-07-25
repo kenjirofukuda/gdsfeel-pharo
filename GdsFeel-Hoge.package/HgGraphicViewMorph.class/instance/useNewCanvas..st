@@ -1,3 +1,3 @@
-testing
+accessing
 useNewCanvas: aBoolean
 	useNewCanvas value: aBoolean

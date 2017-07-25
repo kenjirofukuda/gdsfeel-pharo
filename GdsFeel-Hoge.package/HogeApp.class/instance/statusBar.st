@@ -1,3 +1,3 @@
 accessing
 statusBar
-	^ statusBar ifNil: [ statusBar := self statusBarMorph asSpecAdapter  ]
+	^ statusBar ifNil: [ statusBar := self instantiate:  HgStatusBar ]
