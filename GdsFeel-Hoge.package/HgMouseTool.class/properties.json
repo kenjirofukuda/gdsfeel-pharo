@@ -1,11 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "HgMouseTool",
+	"super" : "KFViewTracking",
 	"category" : "GdsFeel-Hoge",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [ ],
-	"name" : "HgSelectTool",
+	"instvars" : [
+		"document",
+		"dragFeedbackEnabled"
+	],
+	"name" : "HgMouseTool",
 	"type" : "normal"
 }

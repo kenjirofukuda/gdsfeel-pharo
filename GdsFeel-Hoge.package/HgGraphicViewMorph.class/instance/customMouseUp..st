@@ -1,7 +1,7 @@
 event handling
 customMouseUp: aMouseButtonEvent
-	self trackingObject
-		ifNotNil: [ :track | 
+	self
+		trackingDo: [ :track | 
 			track trackEnd.
 			self removeProperty: #viewTracking.
-			self activeHand showTemporaryCursor: nil. ]
+			self activeHand showTemporaryCursor: nil ]

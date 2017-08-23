@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "",
-	"super" : "HgSelectTool",
+	"super" : "HgMouseTool",
 	"category" : "GdsFeel-Hoge",
 	"classinstvars" : [ ],
 	"pools" : [ ],

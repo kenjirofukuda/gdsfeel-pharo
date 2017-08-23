@@ -5,5 +5,6 @@ drawSpartaCanvasOn: aSpartaCanvas
 	self document
 		ifNotNil: [ :doc | 
 			doc graphics do: [ :each | each drawSpartaCanvasOn: aSpartaCanvas viewport: self viewport ].
+			self trackingDo: [ :track | track drawSpartaCanvasOn: aSpartaCanvas viewport: self viewport ].
 			self showExtentBounds
 				ifTrue: [ self drawExtentBoundsSpartaCanvasOn: aSpartaCanvas ] ]
